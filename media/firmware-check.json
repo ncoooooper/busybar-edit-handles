@@ -11,7 +11,7 @@
     "start"
   ],
   "frames": 54,
-  "distinct_frames": 20,
+  "distinct_frames": 21,
   "exit": "App io.ncoooooper.edithandles exited: finished; heap peak 81.5 of 128 KiB",
-  "sha256": "23af0a73e91b32d5078f40ffe89c3e5f9593960461ddef05c7678c67ea9feae6"
+  "sha256": "d5861d98b838be337e0ae1753a3f38387813cf29ca44d0dc915055a8e49a1f4a"
 }
