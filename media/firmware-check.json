@@ -13,7 +13,7 @@
   "frames": 54,
   "distinct_frames": 21,
   "exit": "App io.ncoooooper.edithandles exited: finished; heap peak 81.5 of 128 KiB",
-  "sha256": "0a82ffc61f39fbc603ea171be3c8edd4685a78084c936a05fc343ab2301220e7",
+  "sha256": "b513026480237edb996b05a71341d7ad212d0a0aaac733cbf3ca57f08df282e4",
   "display_test": {
     "firmware": "1.3.1",
     "input": "On-device controls",

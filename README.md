@@ -4,6 +4,20 @@ Find the longest centered dissolve from the real spare frames on either side of 
 
 Check a dissolve before moving a cut in the editor. The shorter handle limits a centered transition even when there are plenty of frames on the other side.
 
+## Screen transitions
+
+Read the available handles at the cut and move the adjustment to see its limit.
+
+![Edit Handles front display. Read the available handles at the cut and move the adjustment to see its limit.](media/guide/screen-transitions.gif)
+
+<details>
+
+<summary>Watch the rear display</summary>
+
+![Edit Handles rear display during the recorded controls](media/guide/screen-transitions-rear.gif)
+
+</details>
+
 ## Read the centered limit
 
 1. Count the spare outgoing tail frames and incoming head frames at the cut. Enter them with the desired transition length and frame rate in the wheel editor.
@@ -34,6 +48,6 @@ Open BUSY Bar Emulator. From this repository, run:
 
 Press **Back** to exit.
 
-The GIFs are excerpts from the emulator recording. Each front-display pixel is shown at 9× its original width and height. The end frames pause for reading.
+The GIFs are excerpts from the emulator recording. Each LED occupies a 16 × 16 cell with a black border. The end frames pause for reading.
 
 [Full recording](media/controls.mp4) · [Rear display](screenshots/back-1.png) · [Firmware test](EMULATOR-QA.md) · [MIT license](LICENSE)
