@@ -4,6 +4,6 @@
   "name": "Edit Handles",
   "version": "0.1.0",
   "api_version": "27.12.0",
-  "description": "Edit Handles",
+  "description": "Find the longest centered dissolve from the real spare frames on either side of an edit.",
   "author": "ncoooooper"
 }

@@ -1,0 +1,17 @@
+{
+  "id": "BB-067",
+  "source": "Local on-device computation using editable numeric inputs.",
+  "scenario": "With 8 tail and 14 head frames, an even centered dissolve can use 16 frames; asymmetric alignment allows 22.",
+  "keys": [
+    "up",
+    "down",
+    "ok",
+    "up",
+    "down",
+    "start"
+  ],
+  "frames": 54,
+  "distinct_frames": 20,
+  "exit": "App io.ncoooooper.edithandles exited: finished; heap peak 81.5 of 128 KiB",
+  "sha256": "23af0a73e91b32d5078f40ffe89c3e5f9593960461ddef05c7678c67ea9feae6"
+}

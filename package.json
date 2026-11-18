@@ -2,7 +2,7 @@
   "name": "busybar-edit-handles",
   "private": true,
   "version": "0.1.0",
-  "description": "Edit Handles",
+  "description": "Find the longest centered dissolve from the real spare frames on either side of an edit.",
   "author": "ncoooooper",
   "type": "module",
   "scripts": {
