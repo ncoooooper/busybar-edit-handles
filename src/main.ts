@@ -35,4 +35,4 @@ const fields=[
     "step": 1
   }
 ];
-worksheet({name:"Edit Handles",fields,calculate,accent:"#FC7658",motion:{"motif":"folio","color":"#FC7658","shine":"#FFE0B7"}});
+worksheet({name:"Edit Handles",fields,calculate,accent:"#FC7658",motion:{enabled:false}});
