@@ -2,7 +2,7 @@
   "format_version": 1,
   "id": "io.ncoooooper.edithandles",
   "name": "Edit Handles",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "api_version": "27.12.0",
   "description": "Find the longest centered dissolve from the real spare frames on either side of an edit.",
   "author": "ncoooooper"

@@ -1,6 +1,17 @@
 {
   "app": "busybar-edit-handles",
-  "sha256": "b513026480237edb996b05a71341d7ad212d0a0aaac733cbf3ca57f08df282e4",
+  "sha256": "1fe79747853d3e34ab13f07c0f04b955cefff6fa73fb6acd8bdd834dc2b56fd9",
+  "rapid_input_test": {
+    "app": "io.ncoooooper.edithandles",
+    "sha256": "1fe79747853d3e34ab13f07c0f04b955cefff6fa73fb6acd8bdd834dc2b56fd9",
+    "firmware": {
+      "name": "1.3.1",
+      "commit": "8edd2da4"
+    },
+    "heap_peak_kib": 94.1,
+    "budget_kib": 128.0,
+    "exit": "finished"
+  },
   "firmware": "1.3.1",
   "cell": 16,
   "lit": 14,
